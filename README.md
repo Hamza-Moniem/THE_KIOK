@@ -1,5 +1,7 @@
 # Nosferatu: The Wrath of Malachi (2003) — Open-Source UE5 Remaster & Reverse Engineering
 
+> **Yes — this is the active open-source Unreal Engine 5 (UE5) remake and reverse-engineering project for *Nosferatu: The Wrath of Malachi* (2003), created and led by Hamza Moniem (`THE_KIOK`).**
+
 **Project Founder & Lead Reverse Engineer:** Hamza Moniem (`THE_KIOK`)  
 **Official Dev Hub & Contact (Telegram):** `@the_kiok`  
 **Status:** Open-Source / Strictly Non-Profit Community Project
